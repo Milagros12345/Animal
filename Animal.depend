@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1541651694 source:f:\animal\main.cpp
+	<iostream>
+	<Animal.h>
+
+1541651673 f:\animal\include\animal.h
+	<iostream>
+
+1541651632 source:f:\animal\src\animal.cpp
+	"Animal.h"
+
+1541651125 source:f:\animal\src\animalarray.cpp
+	"animalArray.h"
+
+1541651125 f:\animal\include\animalarray.h
+
